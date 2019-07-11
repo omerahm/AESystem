@@ -1,4 +1,6 @@
 # Automated Examination System
+<b> This is an incomplete application, the scope has been partially fulfilled.</b>
+
 Automated Examination System
 Abstract / Introduction
 Exam systems are currently doing activities manually and it’s working is paper based for different departments. There must be a system which could work evenly and well for all departments and for all courses efficiently.
